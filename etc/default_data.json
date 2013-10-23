@@ -610,6 +610,17 @@
             "emails": ["corvus@gnu.org", "corvus@inaugust.com", "jeblair@hp.com", "james.blair@rackspace.com", "jeblair@openstack.org"]
         },
         {
+            "launchpad_id": "corystone",
+            "companies": [
+                {
+                    "company_name": "Rackspace",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Cory Stone",
+            "emails": ["corystone@gmail.com", "cory.stone@rackspace.com"]
+        },
+        {
             "launchpad_id": "corywright",
             "companies": [
                 {
